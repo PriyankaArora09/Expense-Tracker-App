@@ -1,6 +1,13 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter project to track daily life to life expenses!
+
+<img height = 300 src = https://github.com/PriyankaArora09/Expense-Tracker-App/assets/77575440/de2f256a-e409-44a1-864f-54124b281ee3>
+<img height = 300 src = "https://github.com/PriyankaArora09/Expense-Tracker-App/assets/77575440/732a987c-7700-476b-bb68-a0d1e05c3ec5">
+
+https://github.com/PriyankaArora09/Expense-Tracker-App/assets/77575440/fdf7b41b-467a-4504-ac67-b632c5ebbace
+
+
 
 ## Getting Started
 
